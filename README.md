@@ -6,7 +6,7 @@
 - GitHub: Isabella, Fernanda e Giovanna
 
 ## Repositório:
-amalgamaenby/fiscalizaçao-caminhao
+amalgamaenby/fiscalizacao-caminhao
 
 ## Integrantes:
 - Dereck Luciano Camargo
