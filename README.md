@@ -1,22 +1,25 @@
-# fiscalizacao-caminhao-db
+# Fiscalização do Caminhão
 
 ## Grupo: Caminhoneiras
-14/08/2026
+Data: 14/08/2026
 - Neondb: Dereck e Evelly
 - GitHub: Isabella, Fernanda e Giovanna
+
+## Grupo: Caminhão
+- Amal
+- Lívia
+- Vinícius
 
 ## Repositório:
 amalgamaenby/fiscalizacao-caminhao
 
 ## Integrantes:
 - Dereck Luciano Camargo
-- Fernanda Cavaçane dos Santos Bezerra
-- Isabella Fernandes de Jesus
-- Giovanna de Miranda Rodrigues
 - Evelly Santana Sousa
+- Fernanda Cavaçane dos Santos Bezerra
+- Giovanna de Miranda Rodrigues
+- Isabella Fernandes de Jesus
 
 ## Informações
-Banco de série temporal
-Dashboard
-Apresentação final
-Caminhão - Segue o limite da via, nunca acima de 80km/h
+Persistência - Banco de série temporal
+Visualização - Dashboard e Apresentação final
