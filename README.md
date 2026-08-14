@@ -6,3 +6,5 @@
 - Isabella Fernandes de Jesus
 - Giovanna de Miranda Rodrigues
 - Evelly Santana Sousa
+
+Caminhão - Segue o limite da via, nunca acima de 80km/h
