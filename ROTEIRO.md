@@ -35,6 +35,8 @@ Exemplo: Ao conectar no carro, irá medir a velocidade em que o veículo está a
 
 Linguagem C ou C++
 
-Let sh
+Led sh
+Vermelho: Ligado
+Azul: Pronto para a programação
 
 Placa ESP-WROOM-02
