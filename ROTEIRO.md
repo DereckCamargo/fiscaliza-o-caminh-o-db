@@ -25,7 +25,13 @@
 
 ## Roteiro do ESP32
 
-Ele que ira monitorar a velocidade de cada veiculo, exemplo, ao conectar no carro, ira mediar a velocidade em que o veiculo esta andando.
+**CUIDADOS: Após energizado NÃO colocar em cima do computador, sempre apoiar na mesa!**
+
+
+Ele que irá monitorar a velocidade de cada veículo.
+
+
+Exemplo: Ao conectar no carro, irá medir a velocidade em que o veículo está andando.
 
 Linguagem C ou C++
 
