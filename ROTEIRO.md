@@ -25,6 +25,8 @@
 
 ## Roteiro do ESP32
 
+Ele que ira monitorar a velocidade de cada veiculo, exemplo, ao conectar no carro, ira mediar a velocidade em que o veiculo esta andando.
+
 Linguagem C ou C++
 
 Let sh
