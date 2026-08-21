@@ -36,9 +36,13 @@ Exemplo: Ao conectar no carro, irá medir a velocidade em que o veículo está a
 Linguagem C ou C++
 
 Led sh
+
+
 Vermelho: Ligado
-Azul: Pronto para a programação
+
+
+`#0969DA` Azul: Pronto para a programação
 
 Placa ESP-WROOM-02
 
-https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
