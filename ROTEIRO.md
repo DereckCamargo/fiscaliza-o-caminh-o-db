@@ -41,7 +41,7 @@ Led sh
 Vermelho: Ligado
 
 
-`#0969DA` Azul: Pronto para a programação
+`#0969DA`Azul: Pronto para a programação
 
 Placa ESP-WROOM-02
 
