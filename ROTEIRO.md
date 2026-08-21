@@ -40,3 +40,5 @@ Vermelho: Ligado
 Azul: Pronto para a programação
 
 Placa ESP-WROOM-02
+
+https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
